@@ -49,7 +49,7 @@ hist
 # In[8]:
 
 
-hist['Open'].plot(figsize=(15,5))
+hist = msft.history(period='max')
 
 
 # In[9]:
