@@ -1,5 +1,7 @@
 # Stock-Price-Prdiction-using-Sentiment-Analysis
+<img src="https://github.com/ishac3105/Stock-Price-Prdiction-using-Sentiment-Analysis/assets/71486274/f92d19a3-f20c-443b-a280-376f6c9a4d2d" width="800"/>
 
+## What is the Objective of Stock Price Predictiopn Using Sentiment Analysis?
 
 The purpose of this exercise is to forecast upcoming stock prices using the Machine Learning and  other Artificial Intelligence. Determining stock price is an detailed undertaking that is subjected to various influences such as markets tendencies, economic figures, company results and worldwide matters. Sentiment analyses may help in establishing what the common people think or feel about the price of a specific stock but it is crucial to note that such information could only be utilized alongside other strategies for correct estimations prediction. The practice began with a full review of existing literature on this topic. Online sources and research papers. Some of the tactics to tackle this problem are highlighted in the references below.
 
